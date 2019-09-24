@@ -1,4 +1,4 @@
-package com.luv2code.springdemo.rest;
+package ee.tanel.springdemo.rest;
 
 import java.util.List;
 
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.luv2code.springdemo.entity.Customer;
-import com.luv2code.springdemo.service.CustomerService;
+import ee.tanel.springdemo.entity.Customer;
+import ee.tanel.springdemo.service.CustomerService;
 
 @RestController
 @RequestMapping("/api")
