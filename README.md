@@ -1,1 +1,1 @@
-#crm demo utilising REST backend
+#crm demo with secure HTTP endpoints
